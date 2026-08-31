@@ -25,6 +25,12 @@
 
 <br /><br />
 
+<img alt="stars" src="https://img.shields.io/github/stars/ribeirou?style=for-the-badge&logo=github&color=2563EB&labelColor=161B22" />
+<img alt="followers" src="https://img.shields.io/github/followers/ribeirou?style=for-the-badge&logo=github&color=2563EB&labelColor=161B22" />
+<img alt="profile views" src="https://komarev.com/ghpvc/?username=ribeirou&color=2563EB&style=for-the-badge&label=PROFILE+VIEWS" />
+
+<br /><br />
+
 <!-- 🔗 links (LinkedIn, portfolio, etc.) entram aqui quando quiser adicionar -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:2563EB&height=100&section=footer" />
