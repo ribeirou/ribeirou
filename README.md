@@ -4,6 +4,14 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=460&lines=building+small%2C+useful+things;React+%7C+Vite+%7C+Tailwind;always+shipping+something" />
 
+<br /><br />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ribeirou/ribeirou/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ribeirou/ribeirou/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contribution graph" src="https://raw.githubusercontent.com/ribeirou/ribeirou/output/github-contribution-grid-snake.svg" />
+</picture>
+
 <br />
 
 <img src="https://github-readme-stats.vercel.app/api?username=ribeirou&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
