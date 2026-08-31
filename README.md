@@ -14,10 +14,14 @@
 
 <br />
 
+<!-- github-readme-stats.vercel.app fora do ar (503 na instancia publica, ate no usuario demo do proprio mantenedor) - card e top-langs comentados pra nao mostrar imagem quebrada. Descomentar quando o servico voltar:
 <img src="https://github-readme-stats.vercel.app/api?username=ribeirou&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+-->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ribeirou&theme=tokyonight&hide_border=true" height="165" />
 
+<!--
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ribeirou&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" />
+-->
 
 <br /><br />
 
