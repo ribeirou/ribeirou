@@ -1,38 +1,36 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:7C3AED&height=200&section=header&text=ribeirou&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=460&lines=building+small%2C+useful+things;React+%7C+Vite+%7C+Tailwind;always+shipping+something" />
-
-<br /><br />
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ribeirou/ribeirou/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ribeirou/ribeirou/output/github-contribution-grid-snake.svg" />
-  <img alt="snake eating my contribution graph" src="https://raw.githubusercontent.com/ribeirou/ribeirou/output/github-contribution-grid-snake.svg" />
-</picture>
+<img src="assets/hero.svg" alt="Gabriel Ribeiro" width="100%" />
 
 <br />
 
-<!-- github-readme-stats.vercel.app fora do ar (503 na instancia publica, ate no usuario demo do proprio mantenedor) - card e top-langs comentados pra nao mostrar imagem quebrada. Descomentar quando o servico voltar:
-<img src="https://github-readme-stats.vercel.app/api?username=ribeirou&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
--->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ribeirou&theme=tokyonight&hide_border=true" height="165" />
+<sub>🧰 USADO NOS PROJETOS</sub>
 
-<!--
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ribeirou&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" />
--->
+<img src="assets/stack.svg" alt="stack" width="100%" />
 
 <br /><br />
 
-<img alt="stars" src="https://img.shields.io/github/stars/ribeirou?style=for-the-badge&logo=github&color=2563EB&labelColor=161B22" />
+## 🚀 Projetos
+
+<a href="https://github.com/ribeirou/roundlab"><img src="assets/card-roundlab.svg" width="49%" alt="roundlab" /></a>
+<a href="https://github.com/ribeirou/portfolio-ribas"><img src="assets/card-portfolio-ribas.svg" width="49%" alt="portfolio-ribas" /></a>
+<a href="https://github.com/ribeirou/medi-quiz"><img src="assets/card-medi-quiz.svg" width="49%" alt="medi-quiz" /></a>
+<a href="https://projeto-sigma-one.vercel.app"><img src="assets/card-Projetos-Pessoais.svg" width="49%" alt="Projetos-Pessoais" /></a>
+
+<br /><br />
+
+## 👾 Atividade
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ribeirou/ribeirou/output/pacman-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ribeirou/ribeirou/output/pacman-contribution-graph.svg" />
+  <img alt="pacman" src="https://raw.githubusercontent.com/ribeirou/ribeirou/output/pacman-contribution-graph.svg" />
+</picture>
+
+<br /><br />
+
 <img alt="followers" src="https://img.shields.io/github/followers/ribeirou?style=for-the-badge&logo=github&color=2563EB&labelColor=161B22" />
-<img alt="profile views" src="https://komarev.com/ghpvc/?username=ribeirou&color=2563EB&style=for-the-badge&label=PROFILE+VIEWS" />
-
-<br /><br />
-
-<!-- 🔗 links (LinkedIn, portfolio, etc.) entram aqui quando quiser adicionar -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:2563EB&height=100&section=footer" />
+<img alt="repos" src="https://img.shields.io/badge/repos-6-7C3AED?style=for-the-badge&logo=github&labelColor=161B22" />
+<img alt="views" src="https://komarev.com/ghpvc/?username=ribeirou&color=22D3EE&style=for-the-badge&label=VIEWS&labelColor=161B22" />
 
 </div>
